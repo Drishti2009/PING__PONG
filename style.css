@@ -1,0 +1,27 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    width: 100%;
+    text-align: left;
+    border-radius: 0px;
+}
+
+.heading h3{
+    display: inline;
+}
+
+.heading button{
+    float: right;
+}
+
+#play, #status, #restart{
+    font-size: 22px;
+}
+
+h4{
+    background-color: white;
+    line-height: 2;
+    margin: 0px;
+}
